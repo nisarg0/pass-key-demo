@@ -6,8 +6,6 @@ This folder contains the source code for the passkey codelab. It gives an introd
 
 ### License
 
-Tutorial link: https://developers.google.com/codelabs/passkey-form-autofill/#0
-
 ```
 Copyright 2023 Google, Inc.
 
