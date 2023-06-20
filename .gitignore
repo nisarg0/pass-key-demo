@@ -1,0 +1,9 @@
+node_modules
+.viminfo
+.node-gyp
+.lesshst
+shrinkwrap.yaml
+.data
+
+
+dist
